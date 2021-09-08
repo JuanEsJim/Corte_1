@@ -1,0 +1,16 @@
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\bin\Debug\net5.0\correccion_Ejercicio_6.exe
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\bin\Debug\net5.0\correccion_Ejercicio_6.deps.json
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\bin\Debug\net5.0\correccion_Ejercicio_6.runtimeconfig.json
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\bin\Debug\net5.0\correccion_Ejercicio_6.runtimeconfig.dev.json
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\bin\Debug\net5.0\correccion_Ejercicio_6.dll
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\bin\Debug\net5.0\ref\correccion_Ejercicio_6.dll
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\bin\Debug\net5.0\correccion_Ejercicio_6.pdb
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\obj\Debug\net5.0\correccion_Ejercicio_6.csproj.AssemblyReference.cache
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\obj\Debug\net5.0\correccion_Ejercicio_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\obj\Debug\net5.0\correccion_Ejercicio_6.AssemblyInfoInputs.cache
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\obj\Debug\net5.0\correccion_Ejercicio_6.AssemblyInfo.cs
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\obj\Debug\net5.0\correccion_Ejercicio_6.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\obj\Debug\net5.0\correccion_Ejercicio_6.dll
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\obj\Debug\net5.0\ref\correccion_Ejercicio_6.dll
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\obj\Debug\net5.0\correccion_Ejercicio_6.pdb
+C:\Users\Esteban\source\repos\correccion_Ejercicio_6\correccion_Ejercicio_6\obj\Debug\net5.0\correccion_Ejercicio_6.genruntimeconfig.cache

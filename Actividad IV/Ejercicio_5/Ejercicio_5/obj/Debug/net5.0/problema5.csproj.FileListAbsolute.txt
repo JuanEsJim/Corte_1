@@ -1,0 +1,32 @@
+C:\Users\Esteban\source\repos\problema5\problema5\bin\Debug\net5.0\problema5.exe
+C:\Users\Esteban\source\repos\problema5\problema5\bin\Debug\net5.0\problema5.deps.json
+C:\Users\Esteban\source\repos\problema5\problema5\bin\Debug\net5.0\problema5.runtimeconfig.json
+C:\Users\Esteban\source\repos\problema5\problema5\bin\Debug\net5.0\problema5.runtimeconfig.dev.json
+C:\Users\Esteban\source\repos\problema5\problema5\bin\Debug\net5.0\problema5.dll
+C:\Users\Esteban\source\repos\problema5\problema5\bin\Debug\net5.0\ref\problema5.dll
+C:\Users\Esteban\source\repos\problema5\problema5\bin\Debug\net5.0\problema5.pdb
+C:\Users\Esteban\source\repos\problema5\problema5\obj\Debug\net5.0\problema5.csproj.AssemblyReference.cache
+C:\Users\Esteban\source\repos\problema5\problema5\obj\Debug\net5.0\problema5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\source\repos\problema5\problema5\obj\Debug\net5.0\problema5.AssemblyInfoInputs.cache
+C:\Users\Esteban\source\repos\problema5\problema5\obj\Debug\net5.0\problema5.AssemblyInfo.cs
+C:\Users\Esteban\source\repos\problema5\problema5\obj\Debug\net5.0\problema5.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\problema5\problema5\obj\Debug\net5.0\problema5.dll
+C:\Users\Esteban\source\repos\problema5\problema5\obj\Debug\net5.0\ref\problema5.dll
+C:\Users\Esteban\source\repos\problema5\problema5\obj\Debug\net5.0\problema5.pdb
+C:\Users\Esteban\source\repos\problema5\problema5\obj\Debug\net5.0\problema5.genruntimeconfig.cache
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\obj\Debug\net5.0\problema5.csproj.AssemblyReference.cache
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\obj\Debug\net5.0\problema5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\obj\Debug\net5.0\problema5.AssemblyInfoInputs.cache
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\obj\Debug\net5.0\problema5.AssemblyInfo.cs
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\obj\Debug\net5.0\problema5.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\obj\Debug\net5.0\problema5.dll
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\obj\Debug\net5.0\ref\problema5.dll
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\obj\Debug\net5.0\problema5.pdb
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\bin\Debug\net5.0\problema5.exe
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\bin\Debug\net5.0\problema5.deps.json
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\bin\Debug\net5.0\problema5.runtimeconfig.json
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\bin\Debug\net5.0\problema5.runtimeconfig.dev.json
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\bin\Debug\net5.0\problema5.dll
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\bin\Debug\net5.0\ref\problema5.dll
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\bin\Debug\net5.0\problema5.pdb
+C:\Users\Esteban\source\Actividad IV\problema5\problema5\obj\Debug\net5.0\problema5.genruntimeconfig.cache

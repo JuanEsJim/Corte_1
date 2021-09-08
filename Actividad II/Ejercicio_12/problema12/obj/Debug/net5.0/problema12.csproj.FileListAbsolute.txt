@@ -1,0 +1,16 @@
+C:\Users\Esteban\source\repos\problema12\problema12\bin\Debug\net5.0\problema12.exe
+C:\Users\Esteban\source\repos\problema12\problema12\bin\Debug\net5.0\problema12.deps.json
+C:\Users\Esteban\source\repos\problema12\problema12\bin\Debug\net5.0\problema12.runtimeconfig.json
+C:\Users\Esteban\source\repos\problema12\problema12\bin\Debug\net5.0\problema12.runtimeconfig.dev.json
+C:\Users\Esteban\source\repos\problema12\problema12\bin\Debug\net5.0\problema12.dll
+C:\Users\Esteban\source\repos\problema12\problema12\bin\Debug\net5.0\ref\problema12.dll
+C:\Users\Esteban\source\repos\problema12\problema12\bin\Debug\net5.0\problema12.pdb
+C:\Users\Esteban\source\repos\problema12\problema12\obj\Debug\net5.0\problema12.csproj.AssemblyReference.cache
+C:\Users\Esteban\source\repos\problema12\problema12\obj\Debug\net5.0\problema12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\source\repos\problema12\problema12\obj\Debug\net5.0\problema12.AssemblyInfoInputs.cache
+C:\Users\Esteban\source\repos\problema12\problema12\obj\Debug\net5.0\problema12.AssemblyInfo.cs
+C:\Users\Esteban\source\repos\problema12\problema12\obj\Debug\net5.0\problema12.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\problema12\problema12\obj\Debug\net5.0\problema12.dll
+C:\Users\Esteban\source\repos\problema12\problema12\obj\Debug\net5.0\ref\problema12.dll
+C:\Users\Esteban\source\repos\problema12\problema12\obj\Debug\net5.0\problema12.pdb
+C:\Users\Esteban\source\repos\problema12\problema12\obj\Debug\net5.0\problema12.genruntimeconfig.cache

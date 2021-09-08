@@ -1,0 +1,16 @@
+C:\Users\Esteban\source\Actividad III\problema1\problema1\obj\Debug\net5.0\problema1.csproj.AssemblyReference.cache
+C:\Users\Esteban\source\Actividad III\problema1\problema1\obj\Debug\net5.0\problema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\source\Actividad III\problema1\problema1\obj\Debug\net5.0\problema1.AssemblyInfoInputs.cache
+C:\Users\Esteban\source\Actividad III\problema1\problema1\obj\Debug\net5.0\problema1.AssemblyInfo.cs
+C:\Users\Esteban\source\Actividad III\problema1\problema1\obj\Debug\net5.0\problema1.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\Actividad III\problema1\problema1\bin\Debug\net5.0\problema1.exe
+C:\Users\Esteban\source\Actividad III\problema1\problema1\bin\Debug\net5.0\problema1.deps.json
+C:\Users\Esteban\source\Actividad III\problema1\problema1\bin\Debug\net5.0\problema1.runtimeconfig.json
+C:\Users\Esteban\source\Actividad III\problema1\problema1\bin\Debug\net5.0\problema1.runtimeconfig.dev.json
+C:\Users\Esteban\source\Actividad III\problema1\problema1\bin\Debug\net5.0\problema1.dll
+C:\Users\Esteban\source\Actividad III\problema1\problema1\bin\Debug\net5.0\ref\problema1.dll
+C:\Users\Esteban\source\Actividad III\problema1\problema1\bin\Debug\net5.0\problema1.pdb
+C:\Users\Esteban\source\Actividad III\problema1\problema1\obj\Debug\net5.0\problema1.dll
+C:\Users\Esteban\source\Actividad III\problema1\problema1\obj\Debug\net5.0\ref\problema1.dll
+C:\Users\Esteban\source\Actividad III\problema1\problema1\obj\Debug\net5.0\problema1.pdb
+C:\Users\Esteban\source\Actividad III\problema1\problema1\obj\Debug\net5.0\problema1.genruntimeconfig.cache

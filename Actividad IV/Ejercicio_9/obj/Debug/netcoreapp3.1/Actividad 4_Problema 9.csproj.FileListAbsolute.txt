@@ -1,0 +1,13 @@
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\bin\Debug\netcoreapp3.1\Actividad 4_Problema 9.exe
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\bin\Debug\netcoreapp3.1\Actividad 4_Problema 9.deps.json
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\bin\Debug\netcoreapp3.1\Actividad 4_Problema 9.runtimeconfig.json
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\bin\Debug\netcoreapp3.1\Actividad 4_Problema 9.runtimeconfig.dev.json
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\bin\Debug\netcoreapp3.1\Actividad 4_Problema 9.dll
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\bin\Debug\netcoreapp3.1\Actividad 4_Problema 9.pdb
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\obj\Debug\netcoreapp3.1\Actividad 4_Problema 9.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\obj\Debug\netcoreapp3.1\Actividad 4_Problema 9.AssemblyInfoInputs.cache
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\obj\Debug\netcoreapp3.1\Actividad 4_Problema 9.AssemblyInfo.cs
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\obj\Debug\netcoreapp3.1\Actividad 4_Problema 9.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\obj\Debug\netcoreapp3.1\Actividad 4_Problema 9.dll
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\obj\Debug\netcoreapp3.1\Actividad 4_Problema 9.pdb
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Actividad 4\Actividad 4_Problema 9\obj\Debug\netcoreapp3.1\Actividad 4_Problema 9.genruntimeconfig.cache
