@@ -1,0 +1,16 @@
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.exe
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.deps.json
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.runtimeconfig.json
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.runtimeconfig.dev.json
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.dll
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\bin\Debug\net5.0\ref\Ejercicio_10.dll
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.pdb
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.csproj.AssemblyReference.cache
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.AssemblyInfoInputs.cache
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.AssemblyInfo.cs
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.dll
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\obj\Debug\net5.0\ref\Ejercicio_10.dll
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.pdb
+C:\Users\Esteban\source\repos\Ejercicio_10\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.genruntimeconfig.cache
