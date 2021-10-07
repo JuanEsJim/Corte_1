@@ -1,0 +1,117 @@
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\bin\Debug\netcoreapp3.1\C# proyecto.exe
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\bin\Debug\netcoreapp3.1\C# proyecto.deps.json
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.json
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.dev.json
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\bin\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\bin\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\obj\Debug\netcoreapp3.1\C# proyecto.csprojAssemblyReference.cache
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfoInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfo.cs
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\obj\Debug\netcoreapp3.1\C# proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\obj\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\obj\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\C# proyecto\obj\Debug\netcoreapp3.1\C# proyecto.genruntimeconfig.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\bin\Debug\netcoreapp3.1\C# proyecto.exe
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\bin\Debug\netcoreapp3.1\C# proyecto.deps.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.dev.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\bin\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\bin\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\obj\Debug\netcoreapp3.1\C# proyecto.csprojAssemblyReference.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfoInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfo.cs
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\obj\Debug\netcoreapp3.1\C# proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\obj\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\obj\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Sumas\obj\Debug\netcoreapp3.1\C# proyecto.genruntimeconfig.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\bin\Debug\netcoreapp3.1\C# proyecto.exe
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\bin\Debug\netcoreapp3.1\C# proyecto.deps.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.dev.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\bin\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\bin\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\obj\Debug\netcoreapp3.1\C# proyecto.csprojAssemblyReference.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfoInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfo.cs
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\obj\Debug\netcoreapp3.1\C# proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\obj\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\obj\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c#\Nombre\obj\Debug\netcoreapp3.1\C# proyecto.genruntimeconfig.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\bin\Debug\netcoreapp3.1\C# proyecto.exe
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\bin\Debug\netcoreapp3.1\C# proyecto.deps.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.dev.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\bin\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\bin\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\obj\Debug\netcoreapp3.1\C# proyecto.csprojAssemblyReference.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfoInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfo.cs
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\obj\Debug\netcoreapp3.1\C# proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\obj\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\obj\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos de c# - copia\Ejemplo\obj\Debug\netcoreapp3.1\C# proyecto.genruntimeconfig.cache
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\obj\Debug\netcoreapp3.1\C# proyecto.csprojAssemblyReference.cache
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfoInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfo.cs
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\obj\Debug\netcoreapp3.1\C# proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\obj\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\obj\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\bin\Debug\netcoreapp3.1\C# proyecto.exe
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\bin\Debug\netcoreapp3.1\C# proyecto.deps.json
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.json
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.dev.json
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\bin\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\bin\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 1\8\obj\Debug\netcoreapp3.1\C# proyecto.genruntimeconfig.cache
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\bin\Debug\netcoreapp3.1\C# proyecto.exe
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\bin\Debug\netcoreapp3.1\C# proyecto.deps.json
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.json
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.dev.json
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\bin\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\bin\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\obj\Debug\netcoreapp3.1\C# proyecto.csprojAssemblyReference.cache
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfoInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfo.cs
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\obj\Debug\netcoreapp3.1\C# proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\obj\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\obj\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\actividades semanales\actividad semana 2\8\obj\Debug\netcoreapp3.1\C# proyecto.genruntimeconfig.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\bin\Debug\netcoreapp3.1\C# proyecto.exe
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\bin\Debug\netcoreapp3.1\C# proyecto.deps.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.dev.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\bin\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\bin\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\obj\Debug\netcoreapp3.1\C# proyecto.csprojAssemblyReference.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfoInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfo.cs
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\obj\Debug\netcoreapp3.1\C# proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\obj\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\obj\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 1\Actividad 2\Ejercicio 8\obj\Debug\netcoreapp3.1\C# proyecto.genruntimeconfig.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\bin\Debug\netcoreapp3.1\C# proyecto.exe
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\bin\Debug\netcoreapp3.1\C# proyecto.deps.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.dev.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\bin\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\bin\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\obj\Debug\netcoreapp3.1\C# proyecto.csprojAssemblyReference.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfoInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfo.cs
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\obj\Debug\netcoreapp3.1\C# proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\obj\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\obj\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 9\obj\Debug\netcoreapp3.1\C# proyecto.genruntimeconfig.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\obj\Debug\netcoreapp3.1\C# proyecto.csprojAssemblyReference.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfoInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\obj\Debug\netcoreapp3.1\C# proyecto.AssemblyInfo.cs
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\obj\Debug\netcoreapp3.1\C# proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\obj\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\obj\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\bin\Debug\netcoreapp3.1\C# proyecto.exe
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\bin\Debug\netcoreapp3.1\C# proyecto.deps.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\bin\Debug\netcoreapp3.1\C# proyecto.runtimeconfig.dev.json
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\bin\Debug\netcoreapp3.1\C# proyecto.dll
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\bin\Debug\netcoreapp3.1\C# proyecto.pdb
+C:\Users\Juan Diego\Desktop\Programacion\Trabajos estructura de datos\Corte 2\Actividad 6\Ejercicio 12\obj\Debug\netcoreapp3.1\C# proyecto.genruntimeconfig.cache
