@@ -11,3 +11,17 @@ C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\A
 C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 6\Actividad 6_Problema 5\obj\Debug\netcoreapp3.1\Actividad 6_Problema 5.dll
 C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 6\Actividad 6_Problema 5\obj\Debug\netcoreapp3.1\Actividad 6_Problema 5.pdb
 C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 6\Actividad 6_Problema 5\obj\Debug\netcoreapp3.1\Actividad 6_Problema 5.genruntimeconfig.cache
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\bin\Debug\netcoreapp3.1\Actividad 6_Problema 5.exe
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\bin\Debug\netcoreapp3.1\Actividad 6_Problema 5.deps.json
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\bin\Debug\netcoreapp3.1\Actividad 6_Problema 5.runtimeconfig.json
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\bin\Debug\netcoreapp3.1\Actividad 6_Problema 5.runtimeconfig.dev.json
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\bin\Debug\netcoreapp3.1\Actividad 6_Problema 5.dll
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\bin\Debug\netcoreapp3.1\Actividad 6_Problema 5.pdb
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\obj\Debug\netcoreapp3.1\Actividad 6_Problema 5.csproj.AssemblyReference.cache
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\obj\Debug\netcoreapp3.1\Actividad 6_Problema 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\obj\Debug\netcoreapp3.1\Actividad 6_Problema 5.AssemblyInfoInputs.cache
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\obj\Debug\netcoreapp3.1\Actividad 6_Problema 5.AssemblyInfo.cs
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\obj\Debug\netcoreapp3.1\Actividad 6_Problema 5.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\obj\Debug\netcoreapp3.1\Actividad 6_Problema 5.dll
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\obj\Debug\netcoreapp3.1\Actividad 6_Problema 5.pdb
+C:\Users\Esteban\source\Actividad VI\Ejercicio_5\obj\Debug\netcoreapp3.1\Actividad 6_Problema 5.genruntimeconfig.cache

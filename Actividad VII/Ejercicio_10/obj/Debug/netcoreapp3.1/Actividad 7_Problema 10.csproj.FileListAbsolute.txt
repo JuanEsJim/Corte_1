@@ -1,0 +1,13 @@
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\bin\Debug\netcoreapp3.1\Actividad 7_Problema 10.exe
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\bin\Debug\netcoreapp3.1\Actividad 7_Problema 10.deps.json
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\bin\Debug\netcoreapp3.1\Actividad 7_Problema 10.runtimeconfig.json
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\bin\Debug\netcoreapp3.1\Actividad 7_Problema 10.runtimeconfig.dev.json
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\bin\Debug\netcoreapp3.1\Actividad 7_Problema 10.dll
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\bin\Debug\netcoreapp3.1\Actividad 7_Problema 10.pdb
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\obj\Debug\netcoreapp3.1\Actividad 7_Problema 10.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\obj\Debug\netcoreapp3.1\Actividad 7_Problema 10.AssemblyInfoInputs.cache
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\obj\Debug\netcoreapp3.1\Actividad 7_Problema 10.AssemblyInfo.cs
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\obj\Debug\netcoreapp3.1\Actividad 7_Problema 10.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\obj\Debug\netcoreapp3.1\Actividad 7_Problema 10.dll
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\obj\Debug\netcoreapp3.1\Actividad 7_Problema 10.pdb
+C:\Users\JONATHAN\source\repos\Programas-Visual-JG\Estructura_de_Datos\Corte_2\Actividad 7\Actividad 7_Problema 10\obj\Debug\netcoreapp3.1\Actividad 7_Problema 10.genruntimeconfig.cache
